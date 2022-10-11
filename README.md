@@ -15,13 +15,23 @@ Instructions for assembling the base code and our code:
 The final folder structure should be the following:
 
 LearningDynamicsPNAS 
+
 ├─ HTP_code
+
 ├─ random_feature_util
+
 ├─ SOD_Evolve
+
 ├─ SOD_Examples
+
 ├─ SOD_External
+
 ├─ SOD_Learn
+
 ├─ SOD_Utils
+
 ├─ `Startup_LearningDynamics.m`
+
 ├─ `random_feature_main.m`
+
 └─ `README.md`
